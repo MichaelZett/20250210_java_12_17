@@ -13,7 +13,7 @@ import static de.zettsystems.history.JavaExample5.MessageType.*;
  */
 public class JavaExample5 {
     enum MessageType {
-        TEXT_MESSAGE(), IMAGE_MESSAGE(), VIDEO_MESSAGE();
+        TEXT_MESSAGE, IMAGE_MESSAGE, VIDEO_MESSAGE;
     }
 
     public static void main(String[] args) {

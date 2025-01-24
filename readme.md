@@ -2,13 +2,20 @@
 
 ## Pfad zu Dateien
 
-C:\Users\ITS-Admin\IdeaProjects\20240409_java1221
+C:\Users\ITS-Admin\IdeaProjects\20250210_java1217
 
 ## Agenda
 
 * Überblick Java
-* Neue Sprachfeatures Java 12-21
+* Neue Sprachfeatures Java 12-17
 * Neues in der JVM
-* Java 22
-* Die Preview Features in Java 21/22
+* Neue Sprachfeatures Java 18-21
 * OpenRewrite
+
+## ToDo
+
+* Verschiedenes 12-17 ?
+* Aufgaben Enthuware
+* Preview 17
+* Open Rewrite aktualisieren
+* Anwendungs bauen für Windows

@@ -13,7 +13,7 @@
         <module>02_java12_17</module>
         <module>03_java18_21</module>
         <module>04_virtual_boot</module>
-        <module>06_openrewrite</module>
+        <module>05_openrewrite</module>
     </modules>
 
     <properties>
