@@ -1,4 +1,4 @@
-package de.zettsystems.solution;
+package de.zettsystems.solution12_15;
 
 public class User {
     public static void main(String[] args) {

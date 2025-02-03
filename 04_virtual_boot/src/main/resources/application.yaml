@@ -6,4 +6,4 @@ server:
 spring:
   threads:
     virtual:
-      enabled: true
+      enabled: false

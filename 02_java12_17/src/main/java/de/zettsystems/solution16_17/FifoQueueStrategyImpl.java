@@ -1,4 +1,4 @@
-package de.zettsystems.solution;
+package de.zettsystems.solution16_17;
 
 public final class FifoQueueStrategyImpl implements QueueStrategy {
     @Override

@@ -1,4 +1,4 @@
-package de.zettsystems.solution;
+package de.zettsystems.solution12_15;
 
 public class AnimalPark {
     public static void main(String[] args) {

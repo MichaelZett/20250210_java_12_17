@@ -1,4 +1,4 @@
-package de.zettsystems.exercises;
+package de.zettsystems.exercises16_17;
 
 import java.util.Objects;
 

@@ -1,4 +1,4 @@
-package de.zettsystems.solution;
+package de.zettsystems.solution16_17;
 
 // TODO use new java api, make more compact
 public record BookAuthorReviewCount(String title, String author, Long reviewCount) {

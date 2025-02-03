@@ -1,4 +1,4 @@
-package de.zettsystems.exercises;
+package de.zettsystems.exercises12_15;
 
 public class User {
     public static void main(String[] args) {

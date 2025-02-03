@@ -14,8 +14,6 @@ C:\Users\ITS-Admin\IdeaProjects\20250210_java1217
 
 ## ToDo
 
-* Verschiedenes 12-17 ?
+* 18-21 überarbeiten
 * Aufgaben Enthuware
-* Preview 17
 * Open Rewrite aktualisieren
-* Anwendungs bauen für Windows

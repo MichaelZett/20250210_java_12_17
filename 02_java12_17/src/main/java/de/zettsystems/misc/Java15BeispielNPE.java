@@ -3,7 +3,7 @@ package de.zettsystems.misc;
 /**
  * Ab Java 14 einschaltbar, ab Java 15 default
  */
-public class BeispielNPE {
+public class Java15BeispielNPE {
 
     static class Person {
         Address address;
