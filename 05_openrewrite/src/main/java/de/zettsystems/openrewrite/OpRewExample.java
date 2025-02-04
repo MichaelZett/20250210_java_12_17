@@ -1,5 +1,9 @@
 package de.zettsystems.openrewrite;
 
+import java.util.List;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
+
 public class OpRewExample {
 
     public static void main(String[] args) {
@@ -15,8 +19,11 @@ public class OpRewExample {
         Object obj = "Hello World";
         if (obj instanceof String) {
             String s = (String) obj;
-            System.out.println("Objekt ist ein String: " + s);
+            String formattedString = String.format("Objekt ist ein String: %s", s);
+            System.out.println(formattedString);
         }
+
+        List<String> list = Stream.of("Hello", "World").collect(Collectors.toUnmodifiableList());
 
         // Klassisches Switch-Statement (vor Switch Expression)
         int dayOfWeek = 2;

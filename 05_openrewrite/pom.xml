@@ -40,6 +40,7 @@
                 <configuration>
                     <activeRecipes>
                         <recipe>org.openrewrite.java.migrate.UpgradeToJava17</recipe>
+                        <recipe>org.openrewrite.java.migrate.util.ReplaceStreamCollectWithToList</recipe>
                     </activeRecipes>
                 </configuration>
                 <dependencies>
