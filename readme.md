@@ -14,6 +14,4 @@ C:\Users\ITS-Admin\IdeaProjects\20250210_java1217
 
 ## ToDo
 
-* 18-21 überarbeiten
 * Aufgaben Enthuware
-* Open Rewrite aktualisieren
