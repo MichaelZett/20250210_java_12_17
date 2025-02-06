@@ -14,4 +14,4 @@ C:\Users\ITS-Admin\IdeaProjects\20250210_java1217
 
 ## ToDo
 
-* Aufgaben Enthuware
+* Aufgaben Enthuware Records, Sealed Classes
