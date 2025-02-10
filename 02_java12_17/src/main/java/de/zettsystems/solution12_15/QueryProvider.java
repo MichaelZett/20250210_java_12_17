@@ -1,4 +1,4 @@
-package de.zettsystems.solution16_17;
+package de.zettsystems.solution12_15;
 
 public class QueryProvider {
 
