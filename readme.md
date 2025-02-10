@@ -2,7 +2,7 @@
 
 ## Pfad zu Dateien
 
-C:\Users\ITS-Admin\IdeaProjects\20250210_java1217
+C:\Users\Admin\IdeaProjects\20250210_java1217
 
 ## Agenda
 
