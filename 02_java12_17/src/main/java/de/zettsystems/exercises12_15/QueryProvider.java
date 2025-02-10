@@ -1,4 +1,4 @@
-package de.zettsystems.exercises16_17;
+package de.zettsystems.exercises12_15;
 
 public class QueryProvider {
 

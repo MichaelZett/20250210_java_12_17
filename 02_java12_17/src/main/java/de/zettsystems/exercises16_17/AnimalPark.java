@@ -1,4 +1,4 @@
-package de.zettsystems.exercises12_15;
+package de.zettsystems.exercises16_17;
 
 public class AnimalPark {
     public static void main(String[] args) {
