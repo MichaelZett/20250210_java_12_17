@@ -11,7 +11,3 @@ C:\Users\ITS-Admin\IdeaProjects\20250210_java1217
 * Neues in der JVM
 * Neue Sprachfeatures Java 18-21
 * OpenRewrite
-
-## ToDo
-
-* Aufgaben Enthuware Records, Sealed Classes
